@@ -9,7 +9,7 @@
 #### To launch the project:
 * clone the repository:
 ```
-
+https://github.com/alexkiyko/fair-test.git
 ```
 * install project dependencies:
 ```
